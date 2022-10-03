@@ -77,3 +77,19 @@
   font-weight: 700;
   src: url(woff2/LigaSFMonoNerdFont-BoldItalic.woff2) format('woff2');
 }
+
+/* Heavy */
+@font-face {
+  font-family: 'Liga SFMono Nerd Font';
+  font-style: normal;
+  font-weight: 900;
+  src: url(woff2/LigaSFMonoNerdFont-Bold.woff2) format('woff2');
+}
+
+/* Heavy Italic */
+@font-face {
+  font-family: 'Liga SFMono Nerd Font';
+  font-style: italic;
+  font-weight: 900;
+  src: url(woff2/LigaSFMonoNerdFont-BoldItalic.woff2) format('woff2');
+}
